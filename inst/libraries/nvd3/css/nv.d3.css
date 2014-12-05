@@ -92,7 +92,7 @@
  * SVG CSS
  */
 
-/*
+
 svg {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -114,7 +114,7 @@ svg text {
 svg .title {
  font: bold 14px Arial;
 }
-*/
+
 
 .nvd3 .nv-background {
   fill: white;
